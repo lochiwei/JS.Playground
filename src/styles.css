@@ -1,0 +1,23 @@
+body {
+  background: #333;
+  color: orange;
+}
+
+img {
+  max-width: 80%;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+td {
+  border: 1px solid #ccc;
+}
+
+td {
+  padding: 2px 8px;
+  text-align: center;
+  background: black;
+}
